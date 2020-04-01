@@ -1,0 +1,16 @@
+.card {
+  background-color: cyan;
+  display: inline-block;
+  border-radius: 0.5em;
+  padding: 0.5em;
+  margin: 0.5em;
+  transition: 0.15s ease-out;
+  box-shadow: rgba(128, 128, 128, 0.295) 4px 3px 5px;
+  text-align: center;
+  font-size: 0.85em;
+}
+
+
+.card:hover {
+  transform: scale(1.015);
+}

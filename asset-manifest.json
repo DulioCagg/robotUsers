@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/robotUsers/static/css/main.a2c01785.chunk.css",
+    "main.js": "/robotUsers/static/js/main.7dea0ecb.chunk.js",
+    "main.js.map": "/robotUsers/static/js/main.7dea0ecb.chunk.js.map",
+    "runtime-main.js": "/robotUsers/static/js/runtime-main.2b5bc978.js",
+    "runtime-main.js.map": "/robotUsers/static/js/runtime-main.2b5bc978.js.map",
+    "static/js/2.3bfe421c.chunk.js": "/robotUsers/static/js/2.3bfe421c.chunk.js",
+    "static/js/2.3bfe421c.chunk.js.map": "/robotUsers/static/js/2.3bfe421c.chunk.js.map",
+    "index.html": "/robotUsers/index.html",
+    "precache-manifest.cdd86822b8d8568b582ce9aed373a575.js": "/robotUsers/precache-manifest.cdd86822b8d8568b582ce9aed373a575.js",
+    "service-worker.js": "/robotUsers/service-worker.js",
+    "static/css/main.a2c01785.chunk.css.map": "/robotUsers/static/css/main.a2c01785.chunk.css.map",
+    "static/js/2.3bfe421c.chunk.js.LICENSE.txt": "/robotUsers/static/js/2.3bfe421c.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/robotUsers/static/media/badrobot3d.cbbd7cb7.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b5bc978.js",
+    "static/js/2.3bfe421c.chunk.js",
+    "static/css/main.a2c01785.chunk.css",
+    "static/js/main.7dea0ecb.chunk.js"
+  ]
+}
